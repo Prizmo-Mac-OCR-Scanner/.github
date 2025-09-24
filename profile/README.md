@@ -28,7 +28,7 @@ Prizmo is optimized for all Mac models, including MacBook Air, MacBook Pro, and 
 
 Whether you're a student digitizing notes, a professional archiving contracts, or a researcher organizing sources, Prizmo provides a reliable and efficient solution for all your scanning needs.
 
-![Prizmo Scanning Example](https://static.macupdate.com/screenshots/306306/m/prizmo-screenshot.png?v=1637260893)
+![Prizmo Scanning Example](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/17/5d/00/175d00a8-d438-1cfd-5839-c8495d8b41a8/pr_source.png/643x0w.jpg)
 
 ---
 
